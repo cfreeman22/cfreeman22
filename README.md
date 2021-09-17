@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cfreeman22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Christian Freeman
+- 👀 I’m interested in ...loading
+- 🌱 I’m currently learning ...loading
+- 💞️ I’m looking to collaborate on ...loading
+- 📫 How to reach me ...loading
 
 <!---
 cfreeman22/cfreeman22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
